@@ -47,3 +47,5 @@ virtualenvwrapper-win
 wrapt
 zope.interface
 mysqlclient
+jwt
+crispy-bootstrap4
